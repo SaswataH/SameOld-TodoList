@@ -1,3 +1,3 @@
-# https-github.com-SaswataH-SameOld-Todo
+# SameOld-TodoList
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-pf7auy)
+A super simple To-do list to practise React JS concepts
